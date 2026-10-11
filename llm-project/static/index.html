@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>LawLens | Local Indian Legal Assistant</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div class="brand"><div class="brand-mark">⚖</div><div><strong>LawLens</strong><span>Local Indian Legal Assistant</span></div></div>
+      <div class="side-section"><div class="side-title">Document library <button id="reindex" class="icon-button" title="Reindex documents">↻</button></div><div id="documents" class="documents"><p class="muted">Loading documents...</p></div></div>
+      <div class="privacy"><strong>Private by design</strong><p>Questions and documents stay on this computer. Answers use your local Ollama model.</p></div>
+      <button id="clear" class="secondary-button">Clear conversation</button>
+    </aside>
+    <main class="main">
+      <header class="hero"><div class="eyebrow">INDIAN LAW · LOCAL RAG</div><h1>Understand your legal documents.</h1><p>Ask about contracts, cybercrime, reporting, evidence, legal provisions, or any topic covered by the documents in your <code>legal_docs</code> folder.</p><div class="intent-legend"><span>Contracts</span><span>Cybercrime</span><span>Evidence</span><span>Legal provisions</span></div></header>
+      <section id="chat" class="chat"><div class="welcome message assistant"><div class="avatar">L</div><div class="bubble"><strong>Welcome to LawLens</strong><p>I retrieve relevant passages from your local documents before answering. Emergency fraud steps appear only for financial-fraud questions.</p><div class="samples"><button>What makes an agreement a contract?</button><button>What is free consent?</button><button>What is a money mule?</button><button>How do I preserve WhatsApp evidence?</button><button>What are the legal provisions in this document?</button><button>How do I report a cybercrime?</button></div></div></div></section>
+      <div id="error" class="error" hidden></div>
+      <form id="composer" class="composer"><textarea id="question" rows="1" maxlength="2000" placeholder="Ask a question about your legal documents..." aria-label="Legal question"></textarea><button id="send" class="send" type="submit">Send <span>↗</span></button></form>
+      <section class="tools-grid">
+        <div class="tool-card"><h2>Check a suspicious message</h2><p class="muted">Analysis stays in this browser and backend. URLs are not opened.</p><textarea id="scam-text" rows="4" placeholder="Paste an SMS, email, URL, or chat message"></textarea><button id="analyze-scam" class="secondary-button">Analyze locally</button><div id="scam-result"></div></div>
+        <div class="tool-card"><h2>Local incident notes</h2><p class="muted">Do not enter passwords, OTPs, UPI PINs, or banking credentials.</p><input id="incident-category" placeholder="Category, e.g. UPI fraud"><input id="incident-amount" placeholder="Amount lost (optional)"><input id="incident-reference" placeholder="Transaction reference (optional)"><textarea id="incident-notes" rows="3" placeholder="Notes and evidence checklist"></textarea><button id="save-incident" class="secondary-button">Save locally</button><div id="incident-result"></div></div>
+      </section>
+      <div class="disclaimer">LawLens provides general legal information, not legal advice. Sources may be historical or incomplete; verify current law with a qualified lawyer.</div>
+    </main>
+  </div>
+  <script src="/static/script.js"></script>
+</body>
+</html>

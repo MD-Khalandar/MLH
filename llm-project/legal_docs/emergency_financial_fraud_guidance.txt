@@ -1,0 +1,24 @@
+LawLens curated emergency guidance for Indian cyber financial fraud.
+This is a local safety aid, not a substitute for a bank, police, or lawyer.
+Source URL: https://www.cybercrime.gov.in/
+Verified date: 2026-10-11
+
+[SECTION: Immediate reporting — official National Cyber Crime Reporting Portal]
+Source URL: https://www.cybercrime.gov.in/UploadMedia/instructions_citizenreportingcyberfrauds.pdf
+Verified date: 2026-10-11
+If money has just been lost in a UPI or other cyber financial fraud, call the National Cyber Crime Reporting Portal helpline 1930 promptly. Also report the incident at https://www.cybercrime.gov.in/. The official portal's citizen financial-fraud instructions identify 1930 and the portal as reporting routes. Reporting quickly can help the authorities act on the complaint, but recovery is not guaranteed.
+
+[SECTION: Contact the bank and payment provider]
+Source URL: https://rbikehtahai.rbi.org.in/rbi-cautions.html
+Verified date: 2026-10-11
+After calling 1930, contact the affected bank and the relevant UPI payment provider through their official app, website, or published customer-care channel. Ask them to record and investigate the unauthorised transaction. Do not use a phone number or link supplied by the suspected scammer.
+
+[SECTION: Preserve transaction and communication information]
+Source URL: https://www.cybercrime.gov.in/UploadMedia/instructions_citizenreportingcyberfrauds.pdf
+Verified date: 2026-10-11
+Keep the transaction ID or UTR, amount, date and time, bank or UPI identifiers, screenshots, messages, phone numbers, UPI IDs, links, and other suspect identifiers. Preserve the original information and provide it to the bank, payment provider, police, or portal when requested. This note does not claim that any particular evidence-preservation procedure is legally required.
+
+[SECTION: Protect account information and avoid recovery scams]
+Source URL: https://rbikehtahai.rbi.org.in/rbi-cautions.html
+Verified date: 2026-10-11
+Do not share OTPs, UPI PINs, passwords, CVV numbers, or remote-access codes with anyone. Do not send additional money to a person who promises to recover the lost money. Banks, payment providers, and authorities do not make recovery guarantees through unsolicited callers. Recovery is not guaranteed.

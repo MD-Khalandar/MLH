@@ -1,0 +1,22 @@
+LawLens curated first steps for suspected Indian cyber financial fraud.
+This is general safety information, not legal advice and not a promise of recovery.
+
+[SECTION: Report immediately]
+Source URL: https://www.cybercrime.gov.in/UploadMedia/instructions_citizenreportingcyberfrauds.pdf
+Verified date: 2026-10-11
+If money was stolen, deducted, or transferred without your authorisation, report the cyber financial fraud promptly by calling 1930 and by filing a complaint at https://www.cybercrime.gov.in/. The official National Cyber Crime Reporting Portal citizen financial-fraud instructions identify 1930 and the portal as reporting routes. Reporting promptly may help the complaint be acted on, but recovery is not guaranteed.
+
+[SECTION: Contact the affected bank and payment provider]
+Source URL: https://www.rbi.org.in/scripts/notificationuser.aspx?id=11040
+Verified date: 2026-10-11
+Contact the affected bank immediately through its official app, website, or published customer-care channel, and contact the relevant UPI or payment provider through its official channel. Ask for the unauthorised transaction to be recorded and investigated. Do not use contact details sent by the suspected scammer.
+
+[SECTION: Preserve transaction evidence]
+Source URL: https://www.cybercrime.gov.in/UploadMedia/instructions_citizenreportingcyberfrauds.pdf
+Verified date: 2026-10-11
+Keep the transaction ID or UTR, amount, date and time, account or UPI identifiers, screenshots, messages, phone numbers, UPI IDs, links, and other suspect identifiers. Preserve the original information and provide it to the bank, payment provider, police, or portal when requested. This guidance does not claim that any particular preservation procedure is legally required.
+
+[SECTION: Secure the affected account and protect secrets]
+Source URL: https://www.rbi.org.in/scripts/notificationuser.aspx?id=11040
+Verified date: 2026-10-11
+Use official account-security controls recommended by the affected bank, such as blocking or securing the affected payment instrument. Do not share OTPs, UPI PINs, passwords, CVVs, or remote-access codes with anyone. Do not pay anyone who promises to recover the money. Recovery is not guaranteed.
